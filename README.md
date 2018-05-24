@@ -1,2 +1,2 @@
-# azureclisecuitylab
-Build a quick security lab with Azure CLI
+# azureclicyberlab
+Build a quick security lab with Azure CLI and Bash
